@@ -4,4 +4,8 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <version>1</version>
+
+<build>
+  <finalName>javatest</finalName>
+  </build>
 </project>
